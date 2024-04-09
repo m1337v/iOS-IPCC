@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisableWiFiAutoJoinUntilFirstUserJoin</key>
+	<false/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>EncryptionType</key>
+			<string>None</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures wireless connectivity settings.</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi (attwifi)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.ATT_NR_US.55d0b606-d474-11eb-a328-f45c89abb0d9</string>
+			<key>PayloadOrganization</key>
+			<string>Apple Inc</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>37492D41-0699-4D4B-813D-CDB14A4874D0</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SSID_STR</key>
+			<string>attwifi</string>
+		</dict>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>DisplayedOperatorName</key>
+			<string>AT&amp;T Wi-Fi Passpoint</string>
+			<key>DomainName</key>
+			<string>attwifi.com</string>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>23</integer>
+				</array>
+				<key>EAPSIMAKAConservativePeer</key>
+				<true/>
+				<key>EAPSIMAKAEncryptedIdentityEnabled</key>
+				<true/>
+				<key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
+				<integer>24</integer>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>IsHotspot</key>
+			<true/>
+			<key>MCCAndMNCs</key>
+			<array>
+				<string>310410</string>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.ATT_NR_US.55d0b782-d474-11eb-a328-f45c89abb0d9</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>91E442C9-67B7-47D0-8CA6-4CBC3823B4B9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>ServiceProviderRoamingEnabled</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Auto-joins the attwifi Wi-Fi network</string>
+	<key>PayloadDisplayName</key>
+	<string>attwifi</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.ATT_NR_US.edf0128e-da0e-11eb-9a46-f45c89abb0d9</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3AAFA73D-93AF-4C7C-ABC5-71F7B1B8888D</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
