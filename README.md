@@ -22,5 +22,5 @@ IPCC bundle files for different iOS Versions and devices. Update your carrier bu
   ```
   "%ProgramFiles%\iTunes\iTunes.exe" /setPrefInt carrier-testing 1
   ```
-8. Now use iTunes/Finder to update the .ipcc carrier bundle. While pressing Shift in iTunes/Finder, click on update and select the .ipcc file.
+8. Now use iTunes/Finder to update the .ipcc carrier bundle. While pressing Option (Mac) or Shift (Windows) in iTunes/Finder, click on update and select the .ipcc file.
 9. Restart your iPhone.
