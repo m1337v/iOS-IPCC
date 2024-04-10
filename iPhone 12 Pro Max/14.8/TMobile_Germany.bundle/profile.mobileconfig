@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>23</integer>
+				</array>
+				<key>EAPSIMAKAEncryptedIdentityEnabled</key>
+				<true/>
+				<key>TLSTrustedServerNames</key>
+				<array/>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi</string>
+			<key>PayloadIdentifier</key>
+			<string>TIV-Macbook-Pros-MacBook-Pro.local.486F783D-9511-43F3-AD6B-AF2A34720BBC.com.apple.wifi.managed.EF366549-E2A8-40BC-9A07-CF6914D76D99</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>30CA062B-3212-4261-87B6-961FF9F481AB</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>Telekom_SIM</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>EAP-SIM profile for Telekom_SIM SSID - auto join enabled</string>
+	<key>PayloadDisplayName</key>
+	<string>Telekom EAP-SIM auto join iOS8</string>
+	<key>PayloadIdentifier</key>
+	<string>TIV-Macbook-Pros-MacBook-Pro.local.486F783D-9511-43F3-AD6B-AF2A34720BBC</string>
+	<key>PayloadOrganization</key>
+	<string>DTAG</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>A724AD33-3D7C-4337-BD61-4C621F24AD49</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

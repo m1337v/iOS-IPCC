@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<false/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+			</dict>
+			<key>EncryptionType</key>
+			<string>Any</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>ワイヤレス接続設定を構成します。</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi（3HKWi-Fi）</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mobile.carriersupport.wifi.hutchison_hk.WiFi</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>103B6423-5E87-464F-8A64-1BD4E2AD1064</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>3HKWi-Fi</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>EAP-SIM profile for Hutchison HK.</string>
+	<key>PayloadDisplayName</key>
+	<string>Hutchison HK EAP-SIM</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.mobile.carriersupport.wifi.hutchison_hk</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C2F2F41F-B1B6-4236-A225-4F45A40F4BE2</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

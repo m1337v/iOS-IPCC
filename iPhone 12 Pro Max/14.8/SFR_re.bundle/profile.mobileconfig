@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<false/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+				<key>TLSAllowTrustExceptions</key>
+				<true/>
+			</dict>
+			<key>EncryptionType</key>
+			<string>Any</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configure les réglages de connectivité sans fil.</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi (SFR WiFi Mobile)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.sfr.eapsim.wifi</string>
+			<key>PayloadOrganization</key>
+			<string>SFR SA</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>B3102023-CFD4-4FEA-AA44-0C7A30B07F80</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SSID_STR</key>
+			<string>SFR WiFi Mobile</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Profil de configuration permettant d'utiliser l'authentification EAP-SIM sur les hotspots "SFR WiFi Mobile"</string>
+	<key>PayloadDisplayName</key>
+	<string>eap-sim</string>
+	<key>PayloadIdentifier</key>
+	<string>com.sfr.eapsim</string>
+	<key>PayloadOrganization</key>
+	<string>SFR SA</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>CAE2CC22-8E73-4C53-BB41-8BA859E8B58A</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

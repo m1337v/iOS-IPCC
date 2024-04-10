@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+				<key>TLSAllowTrustExceptions</key>
+				<true/>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi</string>
+			<key>PayloadIdentifier</key>
+			<string>vaishnavis-macbook-pro.local.D54697EF-1CE0-4335-97C4-1BBA680339FC.com.apple.wifi.managed.743E4395-353E-4CAA-8FBC-47F2A5E602D0</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>08F4C27C-9F80-48D3-8333-60C24C6894BF</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>orange.mobile</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Orange</string>
+	<key>PayloadIdentifier</key>
+	<string>vaishnavis-macbook-pro.local.D54697EF-1CE0-4335-97C4-1BBA680339FC</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>7FE6564B-DDF6-442E-B6E7-5666AA3B0619</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

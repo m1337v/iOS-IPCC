@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>Install this profile to access AlticeWiFi network</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisplayedOperatorName</key>
+			<string>AlticeWiFi</string>
+			<key>DomainName</key>
+			<string>alticemobile.com</string>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>23</integer>
+				</array>
+				<key>EAPSIMAKAEncryptedIdentityEnabled</key>
+				<true/>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>MCCAndMNCs</key>
+			<array>
+				<string>313390</string>
+			</array>
+			<key>NAIRealmNames</key>
+			<array>
+				<string>cpe.alticemobile.com</string>
+				<string>passpoint.alticemobile.com</string>
+				<string>r.alticemobile.com</string>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.E8714B4F-F24C-4933-B612-5E840EADE4E2</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>D634FF85-E99E-46F3-97B4-6E5ADAA4F26D</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>ServiceProviderRoamingEnabled</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>AlticeWiFi - WiFi configuration profile</string>
+	<key>PayloadDisplayName</key>
+	<string>Altice USA Carrier WiFi</string>
+	<key>PayloadIdentifier</key>
+	<string>Nicolass-MacBook-Pro-2.2A950693-1677-4D3B-88D1-1A101FE2D119</string>
+	<key>PayloadOrganization</key>
+	<string>Altice USA</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>6D4EB5EF-4ACA-48B6-9EFE-9DDA1C5EFFDC</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

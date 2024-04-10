@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+				<key>TLSTrustedServerNames</key>
+				<array>
+				</array>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<true/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi</string>
+			<key>PayloadIdentifier</key>
+			<string>TIV-Macbook-Pros-MacBook-Pro.local.486F783D-9511-43F3-AD6B-AF2A34720BBC.com.apple.wifi.managed.DD236C7D-E991-4BF4-A64C-0FF7DE5B52DA</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>3243E486-FB63-4C4A-92C4-08BCA15C1DDA</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>Batelco Wi-Fi</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>EAP-SIM profile for Telekom_SIM SSID - auto join enabled</string>
+	<key>PayloadDisplayName</key>
+	<string>Batelco Wi-Fi</string>
+	<key>PayloadIdentifier</key>
+	<string>TIV-Macbook-Pros-MacBook-Pro.local.486F783D-9511-43F3-AD6B-AF2A34720BBC</string>
+	<key>PayloadOrganization</key>
+	<string>DTAG</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>A7704A2B-A2F9-45B7-823D-C8600F2522ED</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

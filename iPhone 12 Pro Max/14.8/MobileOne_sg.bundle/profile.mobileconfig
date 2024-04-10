@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+			</dict>
+			<key>EncryptionType</key>
+			<string>Any</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi</string>
+			<key>PayloadIdentifier</key>
+			<string>banboo.local.F20FC4B6-A61E-4BDE-BE2D-BCB7E06A65B9.com.apple.wifi.managed.26392AA3-C4C1-4B42-A4F7-20EE38E73B50</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>8B104745-9DAD-40F4-A1FF-F6DA69C6F49F</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>Wireless@SGx</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>M1 Hotspot</string>
+	<key>PayloadIdentifier</key>
+	<string>banboo.local.F20FC4B6-A61E-4BDE-BE2D-BCB7E06A65B9</string>
+	<key>PayloadOrganization</key>
+	<string>M1 Singapore</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>0784CAB2-BF21-405A-9154-8B7BDDC29388</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

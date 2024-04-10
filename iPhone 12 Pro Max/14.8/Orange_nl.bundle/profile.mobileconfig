@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<false/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+				<key>TLSAllowTrustExceptions</key>
+				<true/>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures wireless connectivity settings.</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi (T-MobileZone)</string>
+			<key>PayloadIdentifier</key>
+			<string>de.Telekom.TMNL.EAP-SIM.wifi1</string>
+			<key>PayloadOrganization</key>
+			<string>Telekom AG</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>42A3E4B4-2EFE-4764-A367-28A2564EE9D1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Proxies</key>
+			<dict>
+				<key>HTTPEnable</key>
+				<integer>0</integer>
+				<key>HTTPSEnable</key>
+				<integer>0</integer>
+				<key>ProxyAutoConfigEnable</key>
+				<integer>0</integer>
+				<key>ProxyAutoDiscoveryEnable</key>
+				<integer>0</integer>
+			</dict>
+			<key>SSID_STR</key>
+			<string>T-MobileZone</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Mobile conf for TMNL EAP-SIM</string>
+	<key>PayloadDisplayName</key>
+	<string>TMNL  EAP-SIM</string>
+	<key>PayloadIdentifier</key>
+	<string>de.Telekom.TMNL.EAP-SIM</string>
+	<key>PayloadOrganization</key>
+	<string>Telekom AG</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>891DA60B-5651-486C-B14E-23B24884A10B</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
